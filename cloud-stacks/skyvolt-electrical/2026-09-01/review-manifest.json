@@ -1,0 +1,192 @@
+{
+  "publisher": "Surrey Electrical Project Guide",
+  "cycle_key": "2026-09-01",
+  "page_count": 27,
+  "support_page_count": 4,
+  "total_html_page_count": 31,
+  "content_sha256": "1bd138e81afb7302a639abe7b96e5696cd5aa26852986132da4a0bfa3888ee16",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/skyvolt-electrical/2026-09-01",
+  "theme_motif": "threshold",
+  "visual_archetype": "field_guide",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 748,
+      "electrical-project-planning-and-permits-surrey-bc-questions-4": 842,
+      "electrical-project-planning-and-permits-surrey-bc-cost-and-scope": 760,
+      "electrical-project-planning-and-permits-surrey-bc-planning-f-5": 758,
+      "electrical-project-planning-and-permits-surrey-bc-timing-conside": 779,
+      "electrical-project-planning-and-permits-surrey-bc-questions-befo": 800,
+      "electrical-project-planning-and-permits-surrey-bc-cost-and-s-5": 839,
+      "electrical-project-planning-and-permits-surrey-bc-options-to-4": 759,
+      "electrical-project-planning-and-permits-surrey-bc-warning-si-4": 745,
+      "electrical-project-planning-and-permits-surrey-bc-cost-and-s-4": 792,
+      "electrical-project-planning-and-permits-surrey-bc-questions-3": 853,
+      "electrical-project-planning-and-permits-surrey-bc-preparatio-3": 859,
+      "electrical-project-planning-and-permits-surrey-bc-preparatio-4": 774,
+      "electrical-project-planning-and-permits-surrey-bc-cost-and-s-3": 857,
+      "electrical-project-planning-and-permits-surrey-bc-options-to-3": 856,
+      "electrical-project-planning-and-permits-surrey-bc-warning-si-3": 864,
+      "electrical-project-planning-and-permits-surrey-bc-preparation-ch": 791,
+      "electrical-project-planning-and-permits-surrey-bc-options-to-com": 817,
+      "electrical-project-planning-and-permits-surrey-bc-maintenance-de": 800,
+      "electrical-project-planning-and-permits-surrey-bc-timing-con-3": 830,
+      "electrical-project-planning-and-permits-surrey-bc-planning-f-4": 714,
+      "electrical-project-planning-and-permits-surrey-bc-maintenanc-3": 846,
+      "electrical-project-planning-and-permits-surrey-bc-planning-facto": 834,
+      "electrical-project-planning-and-permits-surrey-bc-timing-con-4": 753,
+      "electrical-project-planning-and-permits-surrey-bc-warning-signs": 839,
+      "electrical-project-planning-and-permits-surrey-bc-options-to-5": 842,
+      "electrical-project-planning-and-permits-surrey-bc-maintenanc-4": 773
+    },
+    "articles_with_sources": 26,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 27,
+    "articles_with_faqs": 27,
+    "topical_paths": {
+      "index": [
+        "electrical contractor fundamentals and terminology",
+        "From initial scope to project records"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-questions-4": [
+        "Provider, scope, and preparation questions",
+        "Provider screening",
+        "Pre-booking fit check"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-cost-and-scope": [
+        "Provider, scope, and preparation questions",
+        "Cost boundaries and proposal assumptions"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-planning-f-5": [
+        "Provider, scope, and preparation questions",
+        "Project definition",
+        "Readiness brief"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-timing-conside": [
+        "Outlet and switch relocation",
+        "Sequencing relocation with renovation work"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-questions-befo": [
+        "Electrical panel replacement and upgrades",
+        "Contractor and EV-project booking questions"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-cost-and-s-5": [
+        "Provider, scope, and preparation questions",
+        "Proposal review",
+        "Cost and responsibility checklist"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-options-to-4": [
+        "Service and option comparison",
+        "Project pathways",
+        "Outcome and constraint comparison"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-warning-si-4": [
+        "Risks, timing, and decision triggers",
+        "Warning symptoms",
+        "Safe escalation lanes"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-cost-and-s-4": [
+        "Service and option comparison",
+        "Proposal comparison",
+        "Scope normalization"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-questions-3": [
+        "Provider, scope, and preparation questions",
+        "Questions before booking",
+        "Four booking gates"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-preparatio-3": [
+        "Outlet and switch relocation",
+        "Project preparation",
+        "Eight-part intake file"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-preparatio-4": [
+        "Provider, scope, and preparation questions",
+        "Pre-visit preparation",
+        "Safe information gathering"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-cost-and-s-3": [
+        "Service and option comparison",
+        "Cost and scope questions",
+        "Proposal approval"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-options-to-3": [
+        "Provider, scope, and preparation questions",
+        "Options to compare",
+        "Evidence-based selection"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-warning-si-3": [
+        "Electrical panel repair",
+        "Warning signs",
+        "Safe escalation"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-preparation-ch": [
+        "Outlet and switch installation",
+        "Room function and installation readiness"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-options-to-com": [
+        "Service and option comparison",
+        "Repair, relocation, replacement, or expansion"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-maintenance-de": [
+        "Electrical panel repair",
+        "Records review, assessment, or corrective scope"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-timing-con-3": [
+        "Risks, timing, and decision triggers",
+        "Timing considerations",
+        "Stage-gate schedule"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-planning-f-4": [
+        "electrical contractor fundamentals and terminology",
+        "Project definition",
+        "Boundary and responsibility questions"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-maintenanc-3": [
+        "Electrical panel replacement and upgrades",
+        "Maintenance decisions",
+        "Repair or replacement"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-planning-facto": [
+        "electrical contractor fundamentals and terminology",
+        "Planning factors",
+        "Readiness comparison"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-timing-con-4": [
+        "Risks, timing, and decision triggers",
+        "Project timing",
+        "Escalation and milestone lanes"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-warning-signs": [
+        "Risks, timing, and decision triggers",
+        "Symptoms and safe escalation"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-options-to-5": [
+        "Service and option comparison",
+        "Project pathways",
+        "Select the next evaluation"
+      ],
+      "electrical-project-planning-and-permits-surrey-bc-maintenanc-4": [
+        "Electrical panel repair",
+        "Maintenance decisions",
+        "Evidence and escalation"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
