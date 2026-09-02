@@ -1,0 +1,174 @@
+{
+  "publisher": "Calgary Property Recovery Field Guide",
+  "cycle_key": "2026-09-01",
+  "page_count": 24,
+  "support_page_count": 4,
+  "total_html_page_count": 28,
+  "content_sha256": "0fb8e5de7f83bf05306408a1b1563e6fa555b5da19b04a21193f9c4e3670be64",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/nonstop-restoration/2026-09-01",
+  "theme_motif": "threshold",
+  "visual_archetype": "field_guide",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 783,
+      "calgary-property-damage-recovery-planning-options-to-compare-4": 717,
+      "calgary-property-damage-recovery-planning-warning-signs": 840,
+      "calgary-property-damage-recovery-planning-preparation-checkl-4": 782,
+      "calgary-property-damage-recovery-planning-maintenance-decisions": 807,
+      "calgary-property-damage-recovery-planning-questions-before-b-3": 829,
+      "calgary-property-damage-recovery-planning-maintenance-decisi-3": 836,
+      "calgary-property-damage-recovery-planning-options-to-compare-3": 760,
+      "calgary-property-damage-recovery-planning-cost-and-scope-que-3": 766,
+      "calgary-property-damage-recovery-planning-timing-considerati-4": 751,
+      "calgary-property-damage-recovery-planning-planning-factors": 776,
+      "calgary-property-damage-recovery-planning-warning-signs-4": 805,
+      "calgary-property-damage-recovery-planning-questions-before-booki": 794,
+      "calgary-property-damage-recovery-planning-cost-and-scope-questio": 821,
+      "calgary-property-damage-recovery-planning-planning-factors-4": 747,
+      "calgary-property-damage-recovery-planning-timing-considerati-3": 761,
+      "calgary-property-damage-recovery-planning-warning-signs-3": 780,
+      "calgary-property-damage-recovery-planning-maintenance-decisi-4": 739,
+      "calgary-property-damage-recovery-planning-preparation-checklist": 797,
+      "calgary-property-damage-recovery-planning-questions-before-b-4": 811,
+      "calgary-property-damage-recovery-planning-options-to-compare": 820,
+      "calgary-property-damage-recovery-planning-preparation-checkl-3": 870,
+      "calgary-property-damage-recovery-planning-timing-considerations": 787,
+      "calgary-property-damage-recovery-planning-cost-and-scope-que-4": 818
+    },
+    "articles_with_sources": 22,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 24,
+    "articles_with_faqs": 24,
+    "topical_paths": {
+      "index": [
+        "emergency restoration company fundamentals and terminology",
+        "Incident-to-closeout recovery sequence"
+      ],
+      "calgary-property-damage-recovery-planning-options-to-compare-4": [
+        "Service and option comparison",
+        "Delivery structure",
+        "Handoffs and accountability"
+      ],
+      "calgary-property-damage-recovery-planning-warning-signs": [
+        "Mold Remediation",
+        "Provider and process warning signs"
+      ],
+      "calgary-property-damage-recovery-planning-preparation-checkl-4": [
+        "Provider, scope, and preparation questions",
+        "Pre-inspection preparation",
+        "Controlled meeting packet"
+      ],
+      "calgary-property-damage-recovery-planning-maintenance-decisions": [
+        "Mold Removal",
+        "Post-recovery monitoring and escalation"
+      ],
+      "calgary-property-damage-recovery-planning-questions-before-b-3": [
+        "Provider, scope, and preparation questions",
+        "Questions before booking",
+        "Three booking gates"
+      ],
+      "calgary-property-damage-recovery-planning-maintenance-decisi-3": [
+        "Water Damage Restoration",
+        "Maintenance decisions",
+        "Monitor, investigate, or repair"
+      ],
+      "calgary-property-damage-recovery-planning-options-to-compare-3": [
+        "Service and option comparison",
+        "Delivery models",
+        "Specialist and coordination choices"
+      ],
+      "calgary-property-damage-recovery-planning-cost-and-scope-que-3": [
+        "Provider, scope, and preparation questions",
+        "Cost and scope",
+        "Estimate normalization"
+      ],
+      "calgary-property-damage-recovery-planning-timing-considerati-4": [
+        "Risks, timing, and decision triggers",
+        "Recovery clocks",
+        "Dependency-led scheduling"
+      ],
+      "calgary-property-damage-recovery-planning-planning-factors": [
+        "emergency restoration company fundamentals and terminology",
+        "Planning factors",
+        "Authority and recovery gates"
+      ],
+      "calgary-property-damage-recovery-planning-warning-signs-4": [
+        "Risks, timing, and decision triggers",
+        "Warning-signal triage",
+        "Stop, pause, or document"
+      ],
+      "calgary-property-damage-recovery-planning-questions-before-booki": [
+        "Water Damage Restoration",
+        "Provider booking and accountability"
+      ],
+      "calgary-property-damage-recovery-planning-cost-and-scope-questio": [
+        "Provider, scope, and preparation questions",
+        "Estimate and authorization review"
+      ],
+      "calgary-property-damage-recovery-planning-planning-factors-4": [
+        "emergency restoration company fundamentals and terminology",
+        "Planning authority and dependencies",
+        "Responsibility mapping"
+      ],
+      "calgary-property-damage-recovery-planning-timing-considerati-3": [
+        "Risks, timing, and decision triggers",
+        "Timing considerations",
+        "Phase gates"
+      ],
+      "calgary-property-damage-recovery-planning-warning-signs-3": [
+        "Risks, timing, and decision triggers",
+        "Warning signs",
+        "Pause and escalation"
+      ],
+      "calgary-property-damage-recovery-planning-maintenance-decisi-4": [
+        "Water Damage Restoration",
+        "Post-loss records",
+        "Maintenance and escalation triggers"
+      ],
+      "calgary-property-damage-recovery-planning-preparation-checklist": [
+        "Flood Cleanup",
+        "Preparedness and controlled response"
+      ],
+      "calgary-property-damage-recovery-planning-questions-before-b-4": [
+        "Provider, scope, and preparation questions",
+        "Pre-booking review",
+        "Nine provider questions"
+      ],
+      "calgary-property-damage-recovery-planning-options-to-compare": [
+        "Service and option comparison",
+        "Delivery, contents, and closeout models"
+      ],
+      "calgary-property-damage-recovery-planning-preparation-checkl-3": [
+        "Provider, scope, and preparation questions",
+        "Preparation checklist",
+        "Incident control file"
+      ],
+      "calgary-property-damage-recovery-planning-timing-considerations": [
+        "Risks, timing, and decision triggers",
+        "Evidence-based project sequencing"
+      ],
+      "calgary-property-damage-recovery-planning-cost-and-scope-que-4": [
+        "Provider, scope, and preparation questions",
+        "Estimate and authorization review",
+        "Eight comparison tests"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
