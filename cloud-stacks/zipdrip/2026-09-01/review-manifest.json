@@ -1,0 +1,186 @@
+{
+  "publisher": "BC IV Wellness Decision Guide",
+  "cycle_key": "2026-09-01",
+  "page_count": 26,
+  "support_page_count": 4,
+  "total_html_page_count": 30,
+  "content_sha256": "33852cfa6b771beb56f1800e277f795a12e2e1293170a5dd12c29f9930f5353b",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/zipdrip/2026-09-01",
+  "theme_motif": "threshold",
+  "visual_archetype": "decision_notebook",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 872,
+      "mobile-iv-wellness-decision-support-british-columbia-prepara-4": 847,
+      "mobile-iv-wellness-decision-support-british-columbia-timing-3": 800,
+      "mobile-iv-wellness-decision-support-british-columbia-questions-b": 787,
+      "mobile-iv-wellness-decision-support-british-columbia-warning-sig": 799,
+      "mobile-iv-wellness-decision-support-british-columbia-mainten-4": 799,
+      "mobile-iv-wellness-decision-support-british-columbia-options-4": 773,
+      "mobile-iv-wellness-decision-support-british-columbia-warning-4": 804,
+      "mobile-iv-wellness-decision-support-british-columbia-mainten-3": 781,
+      "mobile-iv-wellness-decision-support-british-columbia-warning-3": 799,
+      "mobile-iv-wellness-decision-support-british-columbia-cost-and-sc": 794,
+      "mobile-iv-wellness-decision-support-british-columbia-planning-fa": 822,
+      "mobile-iv-wellness-decision-support-british-columbia-cost-an-4": 882,
+      "mobile-iv-wellness-decision-support-british-columbia-questio-4": 870,
+      "mobile-iv-wellness-decision-support-british-columbia-options-to": 736,
+      "mobile-iv-wellness-decision-support-british-columbia-plannin-5": 969,
+      "mobile-iv-wellness-decision-support-british-columbia-preparation": 763,
+      "mobile-iv-wellness-decision-support-british-columbia-maintenance": 744,
+      "mobile-iv-wellness-decision-support-british-columbia-options-3": 810,
+      "mobile-iv-wellness-decision-support-british-columbia-timing-4": 836,
+      "mobile-iv-wellness-decision-support-british-columbia-plannin-4": 804,
+      "mobile-iv-wellness-decision-support-british-columbia-cost-an-3": 840,
+      "mobile-iv-wellness-decision-support-british-columbia-questio-3": 778,
+      "mobile-iv-wellness-decision-support-british-columbia-timing-cons": 742,
+      "mobile-iv-wellness-decision-support-british-columbia-cost-an-5": 987,
+      "mobile-iv-wellness-decision-support-british-columbia-prepara-3": 806
+    },
+    "articles_with_sources": 26,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 26,
+    "articles_with_faqs": 26,
+    "topical_paths": {
+      "index": [
+        "Mobile IV therapy (delivered to home, office, or hotel)",
+        "local decision overview"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-prepara-4": [
+        "Provider, scope, and preparation questions",
+        "Appointment preparation",
+        "Before, on-site, and after checklists"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-timing-3": [
+        "Risks, timing, and decision triggers",
+        "Scheduling or redirecting care",
+        "Changed-information checkpoint"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-questions-b": [
+        "nurse-administered mobile IV vitamin and hydration therapy service fundamentals and terminology",
+        "pre-booking verification"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-warning-sig": [
+        "Recovery & hangover IV therapy",
+        "marketing and process warning signs"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-mainten-4": [
+        "Athletic performance & recovery IV therapy",
+        "Repeat-service decisions",
+        "Fresh assessment instead of automatic routines"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-options-4": [
+        "nurse-administered mobile IV vitamin and hydration therapy service fundamentals and terminology",
+        "Product and pathway comparison",
+        "From menu labels to official records"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-warning-4": [
+        "Risks, timing, and decision triggers",
+        "Marketing and process warning signs",
+        "Verify, pause, or escalate"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-mainten-3": [
+        "nurse-administered mobile IV vitamin and hydration therapy service fundamentals and terminology",
+        "Repeat-service decisions",
+        "Reassessment before recurrence"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-warning-3": [
+        "Risks, timing, and decision triggers",
+        "Marketing and process red flags",
+        "Pause, decline, or escalate"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-cost-and-sc": [
+        "Essential / hydration IV therapy",
+        "cost and clinical scope"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-planning-fa": [
+        "Mobile IV therapy (delivered to home, office, or hotel)",
+        "Planning a suitable mobile encounter",
+        "Clinical and logistical readiness"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-cost-an-4": [
+        "Service and option comparison",
+        "Cost transparency versus clinical scope",
+        "Seven-part quote review"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-questio-4": [
+        "Recovery & hangover IV therapy",
+        "Questions before booking",
+        "Twelve checks before payment"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-options-to": [
+        "Service and option comparison",
+        "mobile, clinic, and non-commercial pathways"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-plannin-5": [
+        "Mobile IV therapy (delivered to home, office, or hotel)",
+        "Privacy, infection prevention, and escalation",
+        "Location-readiness decision"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-preparation": [
+        "Provider, scope, and preparation questions",
+        "appointment-readiness framework"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-maintenance": [
+        "Athletic performance & recovery IV therapy",
+        "recurring-service reassessment"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-options-3": [
+        "Service and option comparison",
+        "Care-setting alternatives",
+        "Four comparison gates"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-timing-4": [
+        "Essential / hydration IV therapy",
+        "Timing and dehydration uncertainty",
+        "Inquiry, advice, or emergency pathway"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-plannin-4": [
+        "Mobile IV therapy (delivered to home, office, or hotel)",
+        "Planning a suitable mobile setting",
+        "Privacy, access, and escalation"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-cost-an-3": [
+        "Provider, scope, and preparation questions",
+        "Cost and professional responsibility",
+        "Itemized scope mapping"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-questio-3": [
+        "Provider, scope, and preparation questions",
+        "Pre-booking verification",
+        "Five booking gates"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-timing-cons": [
+        "Risks, timing, and decision triggers",
+        "when to stop, pause, or escalate"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-cost-an-5": [
+        "Provider, scope, and preparation questions",
+        "Cost transparency and accountable care",
+        "Prepayment checklist"
+      ],
+      "mobile-iv-wellness-decision-support-british-columbia-prepara-3": [
+        "Provider, scope, and preparation questions",
+        "Appointment preparation",
+        "Seven-part readiness checklist"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
