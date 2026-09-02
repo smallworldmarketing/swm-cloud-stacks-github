@@ -1,0 +1,174 @@
+{
+  "publisher": "Georgia Injury Claim Process Guide",
+  "cycle_key": "2026-09-01",
+  "page_count": 24,
+  "support_page_count": 4,
+  "total_html_page_count": 28,
+  "content_sha256": "c52500cbb59ae81addf7fafb3363b87a159dcbd8bffaf71359ef7817a03ac2dc",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/chester-jennings-law-group/2026-09-01",
+  "theme_motif": "threshold",
+  "visual_archetype": "decision_notebook",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 1027,
+      "georgia-injury-claim-process-and-attorney-selection-maintena-4": 806,
+      "georgia-injury-claim-process-and-attorney-selection-options-4": 832,
+      "georgia-injury-claim-process-and-attorney-selection-question-4": 841,
+      "georgia-injury-claim-process-and-attorney-selection-planning-fac": 754,
+      "georgia-injury-claim-process-and-attorney-selection-questions-be": 788,
+      "georgia-injury-claim-process-and-attorney-selection-cost-and-sco": 916,
+      "georgia-injury-claim-process-and-attorney-selection-preparat-3": 727,
+      "georgia-injury-claim-process-and-attorney-selection-warning-4": 800,
+      "georgia-injury-claim-process-and-attorney-selection-preparat-4": 785,
+      "georgia-injury-claim-process-and-attorney-selection-maintena-3": 737,
+      "georgia-injury-claim-process-and-attorney-selection-timing-consi": 806,
+      "georgia-injury-claim-process-and-attorney-selection-options-to-c": 882,
+      "georgia-injury-claim-process-and-attorney-selection-options-3": 725,
+      "georgia-injury-claim-process-and-attorney-selection-cost-and-4": 872,
+      "georgia-injury-claim-process-and-attorney-selection-planning-4": 872,
+      "georgia-injury-claim-process-and-attorney-selection-cost-and-3": 726,
+      "georgia-injury-claim-process-and-attorney-selection-warning-3": 704,
+      "georgia-injury-claim-process-and-attorney-selection-timing-c-3": 677,
+      "georgia-injury-claim-process-and-attorney-selection-timing-c-4": 788,
+      "georgia-injury-claim-process-and-attorney-selection-maintenance": 836,
+      "georgia-injury-claim-process-and-attorney-selection-question-3": 734,
+      "georgia-injury-claim-process-and-attorney-selection-preparation": 857,
+      "georgia-injury-claim-process-and-attorney-selection-warning-sign": 814
+    },
+    "articles_with_sources": 23,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 24,
+    "articles_with_faqs": 24,
+    "topical_paths": {
+      "index": [
+        "personal injury law firm fundamentals and terminology",
+        "Georgia claim-process orientation"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-maintena-4": [
+        "Slip & fall / premises liability claims",
+        "Long-term file organization",
+        "Active maintenance and closeout"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-options-4": [
+        "Service and option comparison",
+        "Lawyer discovery routes",
+        "Verification and working fit"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-question-4": [
+        "Provider, scope, and preparation questions",
+        "Pre-booking screening",
+        "Privacy and meeting logistics"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-planning-fac": [
+        "Risks, timing, and decision triggers",
+        "Planning lane comparison",
+        "Urgency, uncertainty, and burden"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-questions-be": [
+        "Provider, scope, and preparation questions",
+        "Pre-booking verification and intake privacy"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-cost-and-sco": [
+        "Motorcycle accident representation",
+        "Fee and representation-scope questions"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-preparat-3": [
+        "Provider, scope, and preparation questions",
+        "Consultation preparation",
+        "Controlled disclosure packet"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-warning-4": [
+        "Risks, timing, and decision triggers",
+        "Selection warning signs",
+        "Proportionate verification response"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-preparat-4": [
+        "Provider, scope, and preparation questions",
+        "Consultation preparation",
+        "Privacy-conscious document packet"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-maintena-3": [
+        "personal injury law firm fundamentals and terminology",
+        "Long-term file organization",
+        "Review cadence, versions, and closeout"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-timing-consi": [
+        "Risks, timing, and decision triggers",
+        "Deadline discovery and urgent documents"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-options-to-c": [
+        "Rideshare accident representation",
+        "Compare service arrangements and coverage questions"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-options-3": [
+        "Service and option comparison",
+        "Lawyer candidate comparison",
+        "Consistent screening questions"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-cost-and-4": [
+        "personal injury law firm fundamentals and terminology",
+        "Representation agreements",
+        "Cost and scope terms"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-planning-4": [
+        "Risks, timing, and decision triggers",
+        "Incident-based planning",
+        "Assigning unanswered questions"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-cost-and-3": [
+        "Provider, scope, and preparation questions",
+        "Engagement terms",
+        "Fees, costs, liens, and scope"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-warning-3": [
+        "Service and option comparison",
+        "Selection warning signs",
+        "Promises, privacy, and file control"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-timing-c-3": [
+        "Risks, timing, and decision triggers",
+        "Timing map",
+        "Immediate, prompt, recurring, and later tasks"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-timing-c-4": [
+        "Car & truck accident representation",
+        "Timing triage",
+        "Urgent, prompt, and routine lanes"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-maintenance": [
+        "Car & truck accident representation",
+        "Long-term file maintenance and closeout"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-question-3": [
+        "Provider, scope, and preparation questions",
+        "Pre-booking decisions",
+        "Identity, privacy, fit, and logistics"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-preparation": [
+        "Slip & fall / premises liability claims",
+        "Consultation preparation and lawful records"
+      ],
+      "georgia-injury-claim-process-and-attorney-selection-warning-sign": [
+        "Service and option comparison",
+        "Eight warning signs in provider selection"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
