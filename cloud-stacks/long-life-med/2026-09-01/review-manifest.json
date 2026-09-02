@@ -1,0 +1,176 @@
+{
+  "publisher": "Nevada Primary Care Membership Decision Guide",
+  "cycle_key": "2026-09-01",
+  "page_count": 23,
+  "support_page_count": 4,
+  "total_html_page_count": 27,
+  "content_sha256": "481c023f0c7bd7a5102b17a788eec831d42416794bccf9464a68fc699ed34af5",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/long-life-med/2026-09-01",
+  "theme_motif": "grid",
+  "visual_archetype": "decision_notebook",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 752,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-eva": 716,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-4": 755,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-13": 757,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-15": 803,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-12": 760,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-2": 719,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-19": 858,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-7": 741,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-21": 832,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-11": 784,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-22": 787,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-10": 750,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-5": 729,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-18": 805,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-3": 716,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-8": 768,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-6": 717,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-14": 736,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-20": 806,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-9": 799,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-16": 860,
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-17": 876
+    },
+    "articles_with_sources": 20,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 23,
+    "articles_with_faqs": 23,
+    "topical_paths": {
+      "index": [
+        "Direct Primary Care (DPC) membership",
+        "Membership boundaries",
+        "Initial verification"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-eva": [
+        "Functional Medicine",
+        "Cost and scope",
+        "Contract review"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-4": [
+        "Risks, timing, and decision triggers",
+        "Urgency and sequencing",
+        "Escalation lanes"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-13": [
+        "Risks, timing, and decision triggers",
+        "Warning signs",
+        "Pause and verify"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-15": [
+        "Provider, scope, and preparation questions",
+        "Questions before booking",
+        "Four booking gates"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-12": [
+        "Risks, timing, and decision triggers",
+        "Timing considerations",
+        "Commitment sequence"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-2": [
+        "Service and option comparison",
+        "Roles and alternatives",
+        "Responsibility matrix"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-19": [
+        "Provider, scope, and preparation questions",
+        "Consultation preparation",
+        "Records, identities, and follow-up"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-7": [
+        "Medical Weight Loss Management (GLP-1: Semaglutide, Tirzepatide)",
+        "Questions before booking",
+        "Product and pharmacy identity"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-21": [
+        "Risks, timing, and decision triggers",
+        "Warning-sign triage",
+        "Stop, verify, or escalate"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-11": [
+        "Provider, scope, and preparation questions",
+        "Preparation checklist",
+        "Eight-record packet"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-22": [
+        "Functional Medicine",
+        "Ongoing care maintenance",
+        "Continue, modify, pause, or close"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-10": [
+        "Service and option comparison",
+        "Options to compare",
+        "Equal-detail question set"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-5": [
+        "direct primary care and functional/longevity medicine clinic fundamentals and terminology",
+        "Warning signs",
+        "Claim and source verification"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-18": [
+        "Service and option comparison",
+        "Comparable decision lanes",
+        "Membership, product, device, and outside-care routes"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-3": [
+        "Provider, scope, and preparation questions",
+        "Appointment preparation",
+        "Evidence packet"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-8": [
+        "Service and option comparison",
+        "Planning factors",
+        "Membership and treatment files"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-6": [
+        "Bio-Identical Hormone Replacement Therapy (BHRT)",
+        "Ongoing review",
+        "Monitoring and continuity"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-14": [
+        "Direct Primary Care (DPC) membership",
+        "Maintenance decisions",
+        "Renew adjust or exit"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-20": [
+        "Risks, timing, and decision triggers",
+        "Multiple decision clocks",
+        "Urgency, purchase, monitoring, and transition"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-9": [
+        "Direct Primary Care (DPC) membership",
+        "Cost and scope",
+        "Three-ledger decision"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-16": [
+        "Provider, scope, and preparation questions",
+        "Planning a verifiable membership decision",
+        "Contract, professional, and evidence gates"
+      ],
+      "las-vegas-direct-primary-care-membership-and-treatment-claim-17": [
+        "Direct Primary Care (DPC) membership",
+        "Cost and contractual scope",
+        "Seven-part expense ledger"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
