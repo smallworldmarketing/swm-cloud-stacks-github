@@ -1,0 +1,125 @@
+{
+  "publisher": "Traffic Control in Vancouver",
+  "cycle_key": "2026-09-03",
+  "page_count": 16,
+  "support_page_count": 4,
+  "total_html_page_count": 20,
+  "content_sha256": "264598a7d0651da94015b90c3cd48528e9b9b1ee923adb384cc934e169403ae5",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/safeside-traffic-control/locations/vancouver/2026-09-03",
+  "theme_motif": "keyway",
+  "visual_archetype": "field_guide",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Transparent client-aligned local resource site with an exposed stitched binding.",
+    "first_viewport": "Client service masthead, verified contact details, and a visible route into helpful guides.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Use verified NAP and never claim an independent publisher identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 1026,
+      "lane-closure-traffic-control-vancouver": 925,
+      "building-a-traffic-control-planning-timeline": 697,
+      "comparing-traffic-control-quotes-and-change-costs": 682,
+      "reviewing-a-recurring-work-zone-arrangement": 745,
+      "prioritizing-work-zone-planning-constraints": 721,
+      "maintaining-a-controlled-traffic-management-plan": 726,
+      "a-go-or-hold-framework-for-field-booking": 663,
+      "flagging-services-vancouver": 887,
+      "questions-before-booking-a-traffic-control-shift": 725,
+      "eight-readiness-checks-before-mobilization": 727,
+      "traffic-management-plans-vancouver": 939,
+      "recognizing-a-work-zone-review-trigger": 728,
+      "checking-roles-in-a-traffic-control-proposal": 723,
+      "event-traffic-control-vancouver": 962,
+      "construction-traffic-control-vancouver": 932
+    },
+    "articles_with_sources": 16,
+    "articles_with_media": 4,
+    "articles_with_embeds": 1,
+    "articles_with_entities": 16,
+    "articles_with_faqs": 16,
+    "topical_paths": {
+      "index": [
+        "traffic control",
+        "Local services"
+      ],
+      "lane-closure-traffic-control-vancouver": [
+        "traffic control",
+        "Local services"
+      ],
+      "building-a-traffic-control-planning-timeline": [
+        "traffic control",
+        "Preparation and decisions"
+      ],
+      "comparing-traffic-control-quotes-and-change-costs": [
+        "traffic control",
+        "Preparation and decisions"
+      ],
+      "reviewing-a-recurring-work-zone-arrangement": [
+        "traffic control",
+        "Preparation and decisions"
+      ],
+      "prioritizing-work-zone-planning-constraints": [
+        "traffic control",
+        "Preparation and decisions"
+      ],
+      "maintaining-a-controlled-traffic-management-plan": [
+        "traffic control",
+        "Preparation and decisions"
+      ],
+      "a-go-or-hold-framework-for-field-booking": [
+        "traffic control",
+        "Preparation and decisions"
+      ],
+      "flagging-services-vancouver": [
+        "traffic control",
+        "Local services"
+      ],
+      "questions-before-booking-a-traffic-control-shift": [
+        "traffic control",
+        "Preparation and decisions"
+      ],
+      "eight-readiness-checks-before-mobilization": [
+        "traffic control",
+        "Preparation and decisions"
+      ],
+      "traffic-management-plans-vancouver": [
+        "traffic control",
+        "Local services"
+      ],
+      "recognizing-a-work-zone-review-trigger": [
+        "traffic control",
+        "Preparation and decisions"
+      ],
+      "checking-roles-in-a-traffic-control-proposal": [
+        "traffic control",
+        "Preparation and decisions"
+      ],
+      "event-traffic-control-vancouver": [
+        "traffic control",
+        "Local services"
+      ],
+      "construction-traffic-control-vancouver": [
+        "traffic control",
+        "Local services"
+      ]
+    }
+  },
+  "approved_assets": [
+    {
+      "path": "assets/safeside.webp",
+      "sha256": "54f7d0fe35ace7461e64960853be95347e858a0d513c504f6fad866479b4a094",
+      "size_bytes": 113730,
+      "mime_type": "image/webp"
+    }
+  ],
+  "warnings": []
+}
