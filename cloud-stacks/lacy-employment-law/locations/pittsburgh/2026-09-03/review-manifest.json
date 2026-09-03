@@ -1,0 +1,140 @@
+{
+  "publisher": "Employment Law Resources for Pittsburgh",
+  "cycle_key": "2026-09-03",
+  "page_count": 19,
+  "support_page_count": 4,
+  "total_html_page_count": 23,
+  "content_sha256": "7bee6b569535ff7004cfa4490f7eb26044d82c45400833213611d825b89849cd",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/lacy-employment-law/locations/pittsburgh/2026-09-03",
+  "theme_motif": "keyway",
+  "visual_archetype": "local_atlas",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Transparent client-aligned local resource site with an exposed stitched binding.",
+    "first_viewport": "Client service masthead, verified contact details, and a visible route into helpful guides.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Use verified NAP and never claim an independent publisher identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 1105,
+      "keeping-an-employment-file-current-and-secure": 858,
+      "questions-for-comparing-workplace-dispute-routes": 862,
+      "comparing-advice-agency-processes-and-agreement-review": 1008,
+      "when-a-workplace-pattern-calls-for-further-review": 856,
+      "comparing-legal-fees-against-the-agreed-scope": 923,
+      "pittsburgh-wage-and-hour-lawyers": 898,
+      "seven-questions-about-legal-fees-and-responsibilities": 939,
+      "employment-law-attorney-pittsburgh": 968,
+      "eight-checks-for-a-useful-employment-consultation-packet": 906,
+      "keeping-workplace-dates-in-separate-timelines": 856,
+      "employment-attorney-pittsburgh": 1014,
+      "questions-before-an-employment-law-consultation": 732,
+      "pittsburgh-fmla-lawyers": 937,
+      "maintaining-an-accurate-workplace-record": 716,
+      "employment-lawyers-pittsburgh": 923,
+      "choosing-the-next-step-in-a-workplace-concern": 1018,
+      "planning-an-employment-concern-without-premature-conclusions": 973,
+      "is-your-workplace-consultation-ready-to-book": 769
+    },
+    "articles_with_sources": 18,
+    "articles_with_media": 4,
+    "articles_with_embeds": 1,
+    "articles_with_entities": 19,
+    "articles_with_faqs": 19,
+    "topical_paths": {
+      "index": [
+        "employee-side employment law",
+        "Local services"
+      ],
+      "keeping-an-employment-file-current-and-secure": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "questions-for-comparing-workplace-dispute-routes": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "comparing-advice-agency-processes-and-agreement-review": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "when-a-workplace-pattern-calls-for-further-review": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "comparing-legal-fees-against-the-agreed-scope": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "pittsburgh-wage-and-hour-lawyers": [
+        "employee-side employment law",
+        "Local services"
+      ],
+      "seven-questions-about-legal-fees-and-responsibilities": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "employment-law-attorney-pittsburgh": [
+        "employee-side employment law",
+        "Local services"
+      ],
+      "eight-checks-for-a-useful-employment-consultation-packet": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "keeping-workplace-dates-in-separate-timelines": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "employment-attorney-pittsburgh": [
+        "employee-side employment law",
+        "Local services"
+      ],
+      "questions-before-an-employment-law-consultation": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "pittsburgh-fmla-lawyers": [
+        "employee-side employment law",
+        "Local services"
+      ],
+      "maintaining-an-accurate-workplace-record": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "employment-lawyers-pittsburgh": [
+        "employee-side employment law",
+        "Local services"
+      ],
+      "choosing-the-next-step-in-a-workplace-concern": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "planning-an-employment-concern-without-premature-conclusions": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "is-your-workplace-consultation-ready-to-book": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ]
+    }
+  },
+  "approved_assets": [
+    {
+      "path": "assets/pittsburgh.webp",
+      "sha256": "376330ef9015af37e55576e5b52b8cb230b0bee1dff3c8edd0677f98c7467f77",
+      "size_bytes": 88986,
+      "mime_type": "image/webp"
+    }
+  ],
+  "warnings": []
+}
