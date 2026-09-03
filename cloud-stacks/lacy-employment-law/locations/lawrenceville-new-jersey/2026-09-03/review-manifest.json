@@ -1,0 +1,130 @@
+{
+  "publisher": "Employment Law Resources for New Jersey",
+  "cycle_key": "2026-09-03",
+  "page_count": 17,
+  "support_page_count": 4,
+  "total_html_page_count": 21,
+  "content_sha256": "1d1a0ea42e364b74e0702e206b5fe2b711b087cf8e47d5b4fed437156ccbca50",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/lacy-employment-law/locations/lawrenceville-new-jersey/2026-09-03",
+  "theme_motif": "threshold",
+  "visual_archetype": "editorial_journal",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Transparent client-aligned local resource site with an exposed stitched binding.",
+    "first_viewport": "Client service masthead, verified contact details, and a visible route into helpful guides.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Use verified NAP and never claim an independent publisher identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 1125,
+      "keeping-workplace-dates-in-separate-timelines": 856,
+      "new-jersey-fmla-lawyers": 938,
+      "planning-an-employment-concern-without-premature-conclusions": 973,
+      "keeping-an-employment-file-current-and-secure": 858,
+      "comparing-legal-fees-against-the-agreed-scope": 923,
+      "employment-lawyer-in-new-jersey": 988,
+      "choosing-the-next-step-in-a-workplace-concern": 1018,
+      "maintaining-an-accurate-workplace-record": 716,
+      "new-jersey-wage-and-hour-lawyers": 899,
+      "new-jersey-retaliation-lawyers": 931,
+      "eight-checks-for-a-useful-employment-consultation-packet": 906,
+      "is-your-workplace-consultation-ready-to-book": 769,
+      "new-jersey-employment-law-attorney": 999,
+      "when-a-workplace-pattern-calls-for-further-review": 856,
+      "questions-before-an-employment-law-consultation": 732,
+      "questions-for-comparing-workplace-dispute-routes": 862
+    },
+    "articles_with_sources": 17,
+    "articles_with_media": 4,
+    "articles_with_embeds": 1,
+    "articles_with_entities": 17,
+    "articles_with_faqs": 17,
+    "topical_paths": {
+      "index": [
+        "employee-side employment law",
+        "Local services"
+      ],
+      "keeping-workplace-dates-in-separate-timelines": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "new-jersey-fmla-lawyers": [
+        "employee-side employment law",
+        "Local services"
+      ],
+      "planning-an-employment-concern-without-premature-conclusions": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "keeping-an-employment-file-current-and-secure": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "comparing-legal-fees-against-the-agreed-scope": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "employment-lawyer-in-new-jersey": [
+        "employee-side employment law",
+        "Local services"
+      ],
+      "choosing-the-next-step-in-a-workplace-concern": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "maintaining-an-accurate-workplace-record": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "new-jersey-wage-and-hour-lawyers": [
+        "employee-side employment law",
+        "Local services"
+      ],
+      "new-jersey-retaliation-lawyers": [
+        "employee-side employment law",
+        "Local services"
+      ],
+      "eight-checks-for-a-useful-employment-consultation-packet": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "is-your-workplace-consultation-ready-to-book": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "new-jersey-employment-law-attorney": [
+        "employee-side employment law",
+        "Local services"
+      ],
+      "when-a-workplace-pattern-calls-for-further-review": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "questions-before-an-employment-law-consultation": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ],
+      "questions-for-comparing-workplace-dispute-routes": [
+        "employee-side employment law",
+        "Preparation and decisions"
+      ]
+    }
+  },
+  "approved_assets": [
+    {
+      "path": "assets/newjersey.jpg",
+      "sha256": "c350fda6578c523265fe3d3d82211a815aa62e49c7ea371ffe4776b03a9aa714",
+      "size_bytes": 50774,
+      "mime_type": "image/jpeg"
+    }
+  ],
+  "warnings": []
+}
