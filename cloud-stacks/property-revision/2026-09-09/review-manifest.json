@@ -1,0 +1,186 @@
+{
+  "publisher": "Southeast Wisconsin Remodeling Desk",
+  "cycle_key": "2026-09-09",
+  "page_count": 27,
+  "support_page_count": 4,
+  "total_html_page_count": 31,
+  "content_sha256": "f8cb096f06e5501238f43c94c64e4b4b57037ea7d50c5ab80bd2d735302d738b",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/property-revision/2026-09-09",
+  "theme_motif": "navy",
+  "visual_archetype": "decision_notebook",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 706,
+      "reading-remodel-estimates-and-scope-language": 801,
+      "design-build-services-vs-home-design-services-comparison": 651,
+      "basement-finishing-readiness-checklist": 797,
+      "additions-versus-interior-remodel-cost-driver-comparison": 790,
+      "choosing-remodel-inspection-and-testing-checkpoints": 802,
+      "home-addition-vs-whole-house-remodel-decision-framework": 743,
+      "whole-home-remodel-sequencing-decision-framework": 718,
+      "kitchen-remodel-scope-questions-before-signing": 824,
+      "choosing-between-design-build-and-project-phases-for-remodeling": 698,
+      "selecting-a-remodeling-project-delivery-method-for-your-home": 794,
+      "bathroom-remodel-contractor-scope-comparison": 777,
+      "remodeling-project-risk-and-timing-decision-triggers": 735,
+      "choosing-remodel-financing-and-payment-milestone-structures": 741,
+      "comparing-remodel-warranty-and-punch-list-resolution-approaches": 839,
+      "choosing-which-rooms-to-combine-in-one-remodeling-phase": 732,
+      "remodeling-project-scope-and-preparation-question-list": 650,
+      "additions-and-remodels-egress-and-ventilation-decision-points": 687,
+      "basement-kitchenette-and-egress-installation-decision-points": 734,
+      "comparing-remodel-communication-and-change-order-habits": 661,
+      "choosing-what-to-remodel-first-when-you-have-multiple-projects": 659,
+      "design-build-vs-general-contractor-comparison-southeast-wisconsin": 821,
+      "basement-remodeling-moisture-and-egress-risk-triggers": 783,
+      "remodel-closeout-records-and-retesting-decisions": 1080,
+      "prioritizing-indoor-air-quality-decisions-across-remodel-phases": 699,
+      "wisconsin-contractor-credential-and-lien-waiver-questions": 871,
+      "remodeling-contractor-terminology-and-scope-glossary": 676
+    },
+    "articles_with_sources": 20,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 26,
+    "articles_with_faqs": 26,
+    "topical_paths": {
+      "index": [
+        "home remodeling contractor fundamentals and terminology",
+        "project definition and delivery approach",
+        "using this decision hub"
+      ],
+      "reading-remodel-estimates-and-scope-language": [
+        "Service and option comparison",
+        "Estimate and scope-language review",
+        "Comparing bids on equal terms"
+      ],
+      "design-build-services-vs-home-design-services-comparison": [
+        "Service and option comparison",
+        "Design-build services versus home design services",
+        "Matching delivery model to project complexity"
+      ],
+      "basement-finishing-readiness-checklist": [
+        "Basement finishing",
+        "Moisture and radon readiness",
+        "Pre-contract checklist"
+      ],
+      "additions-versus-interior-remodel-cost-driver-comparison": [
+        "Service and option comparison",
+        "home additions versus interior remodel"
+      ],
+      "choosing-remodel-inspection-and-testing-checkpoints": [
+        "Risks, timing, and decision triggers",
+        "Inspection and testing checkpoints",
+        "Pre- and post-construction verification"
+      ],
+      "home-addition-vs-whole-house-remodel-decision-framework": [
+        "Kitchen remodeling",
+        "Home additions",
+        "Addition versus whole-house remodel decision"
+      ],
+      "whole-home-remodel-sequencing-decision-framework": [
+        "home remodeling contractor fundamentals and terminology",
+        "whole-home project sequencing",
+        "multi-project planning order"
+      ],
+      "kitchen-remodel-scope-questions-before-signing": [
+        "Kitchen remodeling",
+        "Provider, scope, and preparation questions",
+        "Contract and lien-waiver documentation"
+      ],
+      "choosing-between-design-build-and-project-phases-for-remodeling": [
+        "Service and option comparison",
+        "design-build sequencing",
+        "phased versus bundled project planning"
+      ],
+      "selecting-a-remodeling-project-delivery-method-for-your-home": [
+        "Service and option comparison",
+        "Project delivery method selection"
+      ],
+      "bathroom-remodel-contractor-scope-comparison": [
+        "Bathroom remodeling",
+        "Service and option comparison",
+        "Comparing design-build versus separated design and construction scope"
+      ],
+      "remodeling-project-risk-and-timing-decision-triggers": [
+        "Risks, timing, and decision triggers",
+        "Discovery and scope-change triggers",
+        "Seasonal and inspection scheduling"
+      ],
+      "choosing-remodel-financing-and-payment-milestone-structures": [
+        "Provider, scope, and preparation questions",
+        "Payment structure and lien-waiver documentation"
+      ],
+      "comparing-remodel-warranty-and-punch-list-resolution-approaches": [
+        "Provider, scope, and preparation questions",
+        "Closeout and warranty comparison"
+      ],
+      "choosing-which-rooms-to-combine-in-one-remodeling-phase": [
+        "Risks, timing, and decision triggers",
+        "Multi-room phase sequencing",
+        "Combining scopes in one construction phase"
+      ],
+      "remodeling-project-scope-and-preparation-question-list": [
+        "Provider, scope, and preparation questions",
+        "Pre-proposal preparation",
+        "Household and documentation readiness"
+      ],
+      "additions-and-remodels-egress-and-ventilation-decision-points": [
+        "Risks, timing, and decision triggers",
+        "Egress and ventilation planning for additions and remodels"
+      ],
+      "basement-kitchenette-and-egress-installation-decision-points": [
+        "Basement remodeling",
+        "Basement kitchenette and egress installation decisions"
+      ],
+      "comparing-remodel-communication-and-change-order-habits": [
+        "Service and option comparison",
+        "Communication and change-order habits"
+      ],
+      "choosing-what-to-remodel-first-when-you-have-multiple-projects": [
+        "Risks, timing, and decision triggers",
+        "Multi-project sequencing",
+        "Deciding which remodel to start first"
+      ],
+      "design-build-vs-general-contractor-comparison-southeast-wisconsin": [
+        "Service and option comparison",
+        "Design-build versus general contractor delivery models"
+      ],
+      "basement-remodeling-moisture-and-egress-risk-triggers": [
+        "Basement remodeling",
+        "Moisture, radon, and egress risk triggers"
+      ],
+      "prioritizing-indoor-air-quality-decisions-across-remodel-phases": [
+        "Risks, timing, and decision triggers",
+        "Indoor air quality during construction",
+        "Phase-based verification questions"
+      ],
+      "wisconsin-contractor-credential-and-lien-waiver-questions": [
+        "Provider, scope, and preparation questions",
+        "Wisconsin contracts, credentials, permits, and lien-waiver questions",
+        "Vetting a design-build contractor before signing"
+      ],
+      "remodeling-contractor-terminology-and-scope-glossary": [
+        "home remodeling contractor fundamentals and terminology",
+        "scope and contract terminology"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
