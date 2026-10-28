@@ -1,0 +1,119 @@
+{
+  "publisher": "Women's Health Practice Transition Guide",
+  "cycle_key": "2026-10-29",
+  "page_count": 16,
+  "support_page_count": 4,
+  "total_html_page_count": 20,
+  "content_sha256": "8c13171dd9613dd9940800984f6ebfc3e2f50be5a78c122897c3c2ee2a7e5f7a",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/monarch-md/2026-10-29",
+  "theme_motif": "slate",
+  "visual_archetype": "editorial_journal",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 728,
+      "concierge-menopause-practice-considerations": 741,
+      "physician-burnout-solutions-womens-health": 739,
+      "leaving-insurance-based-obgyn-practice": 746,
+      "choosing-a-practice-management-partner": 730,
+      "obgyn-practice-launch-support-overview": 740,
+      "how-to-start-a-concierge-obgyn-practice": 725,
+      "concierge-gynecology-practice-checklist": 736,
+      "concierge-vs-direct-primary-care": 738,
+      "concierge-medicine-pros-and-cons-for-obgyns": 735,
+      "independent-physician-practice-checklist": 738,
+      "how-many-patients-concierge-obgyn-needs": 738,
+      "companies-that-help-obgyns-go-concierge": 717,
+      "membership-based-womens-health-practice-guide": 741,
+      "transition-obgyn-practice-to-concierge-care": 724,
+      "concierge-practice-model-questions-to-ask": 720
+    },
+    "articles_with_sources": 16,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 16,
+    "articles_with_faqs": 16,
+    "topical_paths": {
+      "index": [
+        "Practice model decisions",
+        "concierge practice support for OB/GYN physicians"
+      ],
+      "concierge-menopause-practice-considerations": [
+        "Launching and transitioning",
+        "how to start a concierge menopause practice"
+      ],
+      "physician-burnout-solutions-womens-health": [
+        "Practice model decisions",
+        "physician burnout solutions"
+      ],
+      "leaving-insurance-based-obgyn-practice": [
+        "Practice model decisions",
+        "how to leave an insurance-based OB/GYN practice"
+      ],
+      "choosing-a-practice-management-partner": [
+        "Operations and partner evaluation",
+        "physician practice management company"
+      ],
+      "obgyn-practice-launch-support-overview": [
+        "Operations and partner evaluation",
+        "OB/GYN practice launch support"
+      ],
+      "how-to-start-a-concierge-obgyn-practice": [
+        "Launching and transitioning",
+        "how to start a concierge OB/GYN practice"
+      ],
+      "concierge-gynecology-practice-checklist": [
+        "Launching and transitioning",
+        "how to start a concierge gynecology practice"
+      ],
+      "concierge-vs-direct-primary-care": [
+        "Practice model decisions",
+        "direct primary care vs concierge medicine"
+      ],
+      "concierge-medicine-pros-and-cons-for-obgyns": [
+        "Practice model decisions",
+        "concierge medicine pros and cons"
+      ],
+      "independent-physician-practice-checklist": [
+        "Operations and partner evaluation",
+        "independent physician practice"
+      ],
+      "how-many-patients-concierge-obgyn-needs": [
+        "Financial and panel planning",
+        "how many patients does a concierge OB/GYN need"
+      ],
+      "companies-that-help-obgyns-go-concierge": [
+        "Operations and partner evaluation",
+        "companies that help OB/GYNs start a concierge practice"
+      ],
+      "membership-based-womens-health-practice-guide": [
+        "Launching and transitioning",
+        "how to start a membership-based women's health practice"
+      ],
+      "transition-obgyn-practice-to-concierge-care": [
+        "Launching and transitioning",
+        "transition an OB/GYN practice to concierge care"
+      ],
+      "concierge-practice-model-questions-to-ask": [
+        "Practice model decisions",
+        "concierge medicine model"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
