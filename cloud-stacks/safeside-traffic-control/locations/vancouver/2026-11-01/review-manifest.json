@@ -1,0 +1,178 @@
+{
+  "publisher": "Traffic Control in Vancouver",
+  "cycle_key": "2026-11-01",
+  "page_count": 19,
+  "support_page_count": 4,
+  "total_html_page_count": 23,
+  "content_sha256": "2fdde223ef1aa828e909d33d7d5d682d14c4e06b4f57fde5844a15b88c65e8c6",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/safeside-traffic-control/locations/vancouver/2026-11-01",
+  "theme_motif": "threshold",
+  "visual_archetype": "field_guide",
+  "monthly_visual_recipe": {
+    "version": 1,
+    "cycleKey": "2026-11-01",
+    "layoutFamily": "blog",
+    "masthead": "compact",
+    "hero": "split",
+    "storyGrid": "three_column",
+    "article": "sidebar_left",
+    "sectionOrder": [
+      "topics",
+      "stories",
+      "visuals",
+      "local",
+      "official",
+      "editorial"
+    ],
+    "footer": "compact",
+    "palette": "forest",
+    "imageTreatment": "natural",
+    "typography": "serif_reading",
+    "spacing": "balanced",
+    "fingerprintSha256": "df511f2b20cf05ecfa9ca439cb0b329b7a0caa2889ad338918c55a02755b7522"
+  },
+  "visual_contract": {
+    "seed_key": "df511f2b20cf05ecfa9ca439cb0b329b7a0caa2889ad338918c55a02755b7522",
+    "world": "Niche editorial blog with a frozen monthly composition.",
+    "first_viewport": "Client service masthead, verified contact details, and a visible route into helpful guides.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The edition carries one coherent masthead, image treatment and reading grammar across every route.",
+    "constraints": [
+      "Use verified NAP and never claim an independent publisher identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 747,
+      "deciding-between-flagging-only-and-a-full-closure-plan": 803,
+      "matching-a-vancouver-project-description-to-a-service-type": 822,
+      "maintaining-a-controlled-traffic-management-plan": 736,
+      "building-a-traffic-control-planning-timeline": 806,
+      "event-traffic-control-vancouver": 948,
+      "recognizing-a-work-zone-review-trigger": 691,
+      "prioritizing-work-zone-planning-constraints": 917,
+      "choosing-between-tcps-and-a-full-traffic-management-plan": 921,
+      "traffic-management-plans-vancouver": 845,
+      "lane-closure-traffic-control-vancouver": 816,
+      "questions-before-booking-a-traffic-control-shift": 711,
+      "eight-readiness-checks-before-mobilization": 724,
+      "checking-roles-in-a-traffic-control-proposal": 859,
+      "flagging-services-vancouver": 713,
+      "a-go-or-hold-framework-for-field-booking": 696,
+      "comparing-traffic-control-quotes-and-change-costs": 917,
+      "reviewing-a-recurring-work-zone-arrangement": 671,
+      "construction-traffic-control-vancouver": 851
+    },
+    "articles_with_sources": 19,
+    "articles_with_media": 7,
+    "articles_with_embeds": 1,
+    "articles_with_entities": 19,
+    "articles_with_faqs": 19,
+    "topical_paths": {
+      "index": [
+        "traffic control",
+        "Local services",
+        "Choosing a service type"
+      ],
+      "deciding-between-flagging-only-and-a-full-closure-plan": [
+        "Preparation and decisions",
+        "scope-based service selection",
+        "flagging versus full closure plan"
+      ],
+      "matching-a-vancouver-project-description-to-a-service-type": [
+        "Preparation and decisions",
+        "worked scenario",
+        "matching scope to service type"
+      ],
+      "maintaining-a-controlled-traffic-management-plan": [
+        "Preparation and decisions",
+        "Maintaining a plan",
+        "Review versus routine check"
+      ],
+      "building-a-traffic-control-planning-timeline": [
+        "Preparation and decisions",
+        "planning timelines"
+      ],
+      "event-traffic-control-vancouver": [
+        "Local services",
+        "event traffic control Vancouver",
+        "comparing event traffic control options"
+      ],
+      "recognizing-a-work-zone-review-trigger": [
+        "Preparation and decisions",
+        "work-zone monitoring",
+        "recognizing a review trigger"
+      ],
+      "prioritizing-work-zone-planning-constraints": [
+        "Preparation and decisions",
+        "constraint prioritization"
+      ],
+      "choosing-between-tcps-and-a-full-traffic-management-plan": [
+        "Preparation and decisions",
+        "risk assessment and plan requirements",
+        "choosing TCPs versus a documented plan"
+      ],
+      "traffic-management-plans-vancouver": [
+        "Preparation and decisions",
+        "traffic management plans",
+        "classifying work-zone risk"
+      ],
+      "lane-closure-traffic-control-vancouver": [
+        "Local services",
+        "lane closure traffic control Vancouver",
+        "scoping a closure request"
+      ],
+      "questions-before-booking-a-traffic-control-shift": [
+        "Preparation and decisions",
+        "Questions before booking",
+        "Shift readiness"
+      ],
+      "eight-readiness-checks-before-mobilization": [
+        "Preparation and decisions",
+        "mobilization readiness"
+      ],
+      "checking-roles-in-a-traffic-control-proposal": [
+        "Preparation and decisions",
+        "Reviewing a proposal",
+        "Confirming assigned roles"
+      ],
+      "flagging-services-vancouver": [
+        "Local services",
+        "flagging services",
+        "booking decisions"
+      ],
+      "a-go-or-hold-framework-for-field-booking": [
+        "Preparation and decisions",
+        "field booking readiness",
+        "go or hold criteria"
+      ],
+      "comparing-traffic-control-quotes-and-change-costs": [
+        "Preparation and decisions",
+        "Comparing options",
+        "Evaluating cost changes"
+      ],
+      "reviewing-a-recurring-work-zone-arrangement": [
+        "Preparation and decisions",
+        "ongoing project review"
+      ],
+      "construction-traffic-control-vancouver": [
+        "Preparation and decisions",
+        "construction traffic control Vancouver",
+        "pre-booking questions"
+      ]
+    }
+  },
+  "approved_assets": [
+    {
+      "path": "assets/safeside.webp",
+      "sha256": "54f7d0fe35ace7461e64960853be95347e858a0d513c504f6fad866479b4a094",
+      "size_bytes": 113730,
+      "mime_type": "image/webp"
+    }
+  ],
+  "warnings": []
+}
