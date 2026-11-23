@@ -1,0 +1,236 @@
+{
+  "publisher": "Calgary Property Recovery Field Guide",
+  "cycle_key": "2026-11-01",
+  "page_count": 25,
+  "support_page_count": 4,
+  "total_html_page_count": 29,
+  "content_sha256": "4c42b0e11c451984a2b0ca416815ef4a6394a2188f8bed35693ade308fc8eb4b",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/nonstop-restoration/2026-11-01",
+  "theme_motif": "navy",
+  "visual_archetype": "field_guide",
+  "monthly_visual_recipe": {
+    "version": 1,
+    "cycleKey": "2026-11-01",
+    "layoutFamily": "journal",
+    "masthead": "centered",
+    "hero": "mosaic",
+    "storyGrid": "mixed_grid",
+    "article": "sidebar_right",
+    "sectionOrder": [
+      "stories",
+      "official",
+      "visuals",
+      "editorial",
+      "topics",
+      "local"
+    ],
+    "footer": "columns",
+    "palette": "navy",
+    "imageTreatment": "soft_matte",
+    "typography": "mixed_editorial",
+    "spacing": "airy",
+    "fingerprintSha256": "500983476b12cf900a4e15088eb9e989fe2fab11938feb8b36e1987caf52c6bd"
+  },
+  "visual_contract": {
+    "seed_key": "500983476b12cf900a4e15088eb9e989fe2fab11938feb8b36e1987caf52c6bd",
+    "world": "Niche editorial journal with a frozen monthly composition.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The edition carries one coherent masthead, image treatment and reading grammar across every route.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 938,
+      "calgary-property-damage-recovery-planning-options-to-compare": 954,
+      "calgary-property-damage-recovery-planning-maintenance-decisi-4": 749,
+      "calgary-property-damage-recovery-planning-warning-signs-3": 670,
+      "calgary-property-damage-recovery-planning-cost-and-scope-que-3": 818,
+      "calgary-property-damage-recovery-planning-warning-signs-4": 770,
+      "calgary-property-damage-recovery-planning-cost-and-scope-que-4": 846,
+      "calgary-property-damage-recovery-planning-options-to-compare-3": 924,
+      "calgary-property-damage-recovery-planning-timing-considerati-3": 854,
+      "calgary-property-damage-recovery-planning-questions-before-b-3": 977,
+      "calgary-property-damage-recovery-planning-planning-factors": 692,
+      "calgary-property-damage-recovery-planning-warning-signs": 857,
+      "calgary-property-damage-recovery-planning-timing-considerations": 1010,
+      "calgary-property-damage-recovery-planning-preparation-checklist": 901,
+      "calgary-property-damage-recovery-planning-preparation-checkl-3": 808,
+      "calgary-property-damage-recovery-planning-maintenance-decisi-3": 701,
+      "calgary-property-damage-recovery-planning-maintenance-decisions": 906,
+      "calgary-property-damage-recovery-planning-cost-and-scope-questio": 733,
+      "calgary-property-damage-recovery-planning-preparation-checkl-4": 762,
+      "calgary-property-damage-recovery-planning-planning-factors-4": 745,
+      "calgary-property-damage-recovery-planning-questions-before-b-4": 891,
+      "calgary-property-damage-recovery-planning-questions-before-booki": 988,
+      "calgary-property-damage-recovery-planning-decision-checklist": 735,
+      "calgary-property-damage-recovery-planning-options-to-compare-4": 826,
+      "calgary-property-damage-recovery-planning-timing-considerati-4": 716
+    },
+    "articles_with_sources": 24,
+    "articles_with_media": 5,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 25,
+    "articles_with_faqs": 25,
+    "topical_paths": {
+      "index": [
+        "emergency restoration company fundamentals and terminology",
+        "sequencing safety, documentation, and contractor decisions"
+      ],
+      "calgary-property-damage-recovery-planning-options-to-compare": [
+        "Water Damage Restoration",
+        "Options comparison",
+        "Choosing between DIY, trades, and specialist remediation"
+      ],
+      "calgary-property-damage-recovery-planning-maintenance-decisi-4": [
+        "Provider, scope, and preparation questions",
+        "Maintenance decisions",
+        "Rebuild timing versus pause triggers"
+      ],
+      "calgary-property-damage-recovery-planning-warning-signs-3": [
+        "Risks, timing, and decision triggers",
+        "warning signs requiring specialist assessment",
+        "when to pause and call a qualified professional"
+      ],
+      "calgary-property-damage-recovery-planning-cost-and-scope-que-3": [
+        "Service and option comparison",
+        "Cost and scope questions",
+        "Worked estimate scenario"
+      ],
+      "calgary-property-damage-recovery-planning-warning-signs-4": [
+        "Risks, timing, and decision triggers",
+        "warning signs requiring professional recovery help"
+      ],
+      "calgary-property-damage-recovery-planning-cost-and-scope-que-4": [
+        "Service and option comparison",
+        "cost and scope comparison across loss types",
+        "choosing which scope questions apply to a specific loss"
+      ],
+      "calgary-property-damage-recovery-planning-options-to-compare-3": [
+        "Service and option comparison",
+        "contractor and scope comparison questions",
+        "pre-authorization decision"
+      ],
+      "calgary-property-damage-recovery-planning-timing-considerati-3": [
+        "Risks, timing, and decision triggers",
+        "Sequencing recovery steps",
+        "Matching decisions to the correct timing window"
+      ],
+      "calgary-property-damage-recovery-planning-questions-before-b-3": [
+        "Provider, scope, and preparation questions",
+        "contractor authorization decisions",
+        "staged work authorization"
+      ],
+      "calgary-property-damage-recovery-planning-planning-factors": [
+        "Provider, scope, and preparation questions",
+        "planning factors",
+        "questions to ask before acting"
+      ],
+      "calgary-property-damage-recovery-planning-warning-signs": [
+        "Mold Remediation",
+        "Warning signs that distinguish do-it-yourself cleanup from contractor scope"
+      ],
+      "calgary-property-damage-recovery-planning-timing-considerations": [
+        "Risks, timing, and decision triggers",
+        "mould timing after water damage",
+        "wait-and-monitor versus professional assessment"
+      ],
+      "calgary-property-damage-recovery-planning-preparation-checklist": [
+        "Flood Cleanup",
+        "Preparation and readiness",
+        "Preparation checklist decision"
+      ],
+      "calgary-property-damage-recovery-planning-preparation-checkl-3": [
+        "emergency restoration company fundamentals and terminology",
+        "pre-work verification sequence",
+        "preparation checklist"
+      ],
+      "calgary-property-damage-recovery-planning-maintenance-decisi-3": [
+        "Service and option comparison",
+        "DIY cleanup versus professional restoration",
+        "pre-decision checks"
+      ],
+      "calgary-property-damage-recovery-planning-maintenance-decisions": [
+        "Mold Removal",
+        "Maintenance decisions after remediation"
+      ],
+      "calgary-property-damage-recovery-planning-cost-and-scope-questio": [
+        "Service and option comparison",
+        "cost and scope questions",
+        "written estimate review"
+      ],
+      "calgary-property-damage-recovery-planning-preparation-checkl-4": [
+        "Provider, scope, and preparation questions",
+        "pre-work questions",
+        "authorizing recovery work"
+      ],
+      "calgary-property-damage-recovery-planning-planning-factors-4": [
+        "Risks, timing, and decision triggers",
+        "basement flood scenario",
+        "permit and professional decision points"
+      ],
+      "calgary-property-damage-recovery-planning-questions-before-b-4": [
+        "Provider, scope, and preparation questions",
+        "contractor screening",
+        "worked basement flood scenario"
+      ],
+      "calgary-property-damage-recovery-planning-questions-before-booki": [
+        "Provider, scope, and preparation questions",
+        "contractor booking questions",
+        "pre-booking documentation checklist"
+      ],
+      "calgary-property-damage-recovery-planning-decision-checklist": [
+        "Provider, scope, and preparation questions",
+        "next-step decision checklist"
+      ],
+      "calgary-property-damage-recovery-planning-options-to-compare-4": [
+        "Service and option comparison",
+        "self-directed cleanup versus contractor-managed versus multi-specialist recovery"
+      ],
+      "calgary-property-damage-recovery-planning-timing-considerati-4": [
+        "Risks, timing, and decision triggers",
+        "post-incident timing",
+        "sequencing safety, documentation, and permits"
+      ]
+    }
+  },
+  "approved_assets": [
+    {
+      "path": "assets/monthly-0aa5dce6-548c-4f3d-9b36-0b2e0620aa9a.webp",
+      "sha256": "d5d971df55da472cf0880a51af1a990832ae00b45a6d2783e96a33cadfb5f035",
+      "size_bytes": 237806,
+      "mime_type": "image/webp"
+    },
+    {
+      "path": "assets/monthly-2098a94f-0fbd-4338-94e8-843f4a3f4af5.webp",
+      "sha256": "8995cd62a094c7882e2617eab139690b0180d2d67c7f7dac4b31f60c09c911c9",
+      "size_bytes": 244262,
+      "mime_type": "image/webp"
+    },
+    {
+      "path": "assets/monthly-3f694bdc-5fe1-4236-b22f-a3341360db7a.webp",
+      "sha256": "ae2bf284eba139dedbaf04f582eb1310b14d178c6427458e8d7dd29fc3d4511b",
+      "size_bytes": 219868,
+      "mime_type": "image/webp"
+    },
+    {
+      "path": "assets/monthly-b57e3e50-49da-4154-b3ec-988d2a5ac3e5.webp",
+      "sha256": "cc5878bc062b0e42ee913aecb6d1d0019d867baa06dafcd57859b2af981f11d2",
+      "size_bytes": 156876,
+      "mime_type": "image/webp"
+    },
+    {
+      "path": "assets/monthly-eef7e0af-2632-4948-9801-9a3307b7e777.webp",
+      "sha256": "dc00223b500cfeacf436fb8abd28c71b04871d52a5b22c201d9e83c017e27699",
+      "size_bytes": 269034,
+      "mime_type": "image/webp"
+    }
+  ],
+  "warnings": []
+}
