@@ -1,0 +1,119 @@
+{
+  "publisher": "BC IV Wellness Decision Guide",
+  "cycle_key": "2026-11-24",
+  "page_count": 16,
+  "support_page_count": 4,
+  "total_html_page_count": 20,
+  "content_sha256": "7a02fda43e5a107d774a1c03616b31c068f4a27307d0339f1db1c6a6d7dc177c",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/zipdrip/2026-11-24",
+  "theme_motif": "keyway",
+  "visual_archetype": "decision_notebook",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 711,
+      "care-for-someone-else": 695,
+      "compare-written-product-records": 680,
+      "follow-up-questions": 662,
+      "separate-intake-from-assessment": 693,
+      "private-event-arrangements": 665,
+      "mismatched-answers": 667,
+      "quote-and-scope": 682,
+      "remote-assessor-handoff": 661,
+      "what-changed-before-repeat-booking": 656,
+      "changed-appointment-plan": 684,
+      "reading-promotional-language": 656,
+      "private-update-channel": 682,
+      "records-after-visit-cancels": 694,
+      "visitor-access-plan": 688,
+      "language-and-format": 668
+    },
+    "articles_with_sources": 16,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 16,
+    "articles_with_faqs": 1,
+    "topical_paths": {
+      "index": [
+        "Provider, scope, and preparation questions",
+        "Who Answers Which Questions Before a Mobile IV Wellness Visit"
+      ],
+      "care-for-someone-else": [
+        "Provider, scope, and preparation questions",
+        "Questions When You Are Booking a Visit for Someone Else"
+      ],
+      "compare-written-product-records": [
+        "Service and option comparison",
+        "Comparing Two Written Product Descriptions Before You Decide"
+      ],
+      "follow-up-questions": [
+        "Provider, scope, and preparation questions",
+        "Questions to Keep for Follow-Up After an Assessment"
+      ],
+      "separate-intake-from-assessment": [
+        "Service and option comparison",
+        "Reading an Intake Form Before You Meet the Practitioner"
+      ],
+      "private-event-arrangements": [
+        "Risks, timing, and decision triggers",
+        "A Privacy Plan for Group Bookings and Private Events"
+      ],
+      "mismatched-answers": [
+        "Risks, timing, and decision triggers",
+        "When Booking Staff and the Practitioner Give Different Answers"
+      ],
+      "quote-and-scope": [
+        "Service and option comparison",
+        "Comparing a Booking Quote With the Proposed Care"
+      ],
+      "remote-assessor-handoff": [
+        "Provider, scope, and preparation questions",
+        "Questions About a Handoff From Remote Review to an In-Person Visit"
+      ],
+      "what-changed-before-repeat-booking": [
+        "Risks, timing, and decision triggers",
+        "What to Recheck Before a Repeat Appointment"
+      ],
+      "changed-appointment-plan": [
+        "Risks, timing, and decision triggers",
+        "A Decision Guide When the Appointment Plan Changes"
+      ],
+      "reading-promotional-language": [
+        "Service and option comparison",
+        "Six Questions to Ask About a Wellness Advertisement"
+      ],
+      "private-update-channel": [
+        "Mobile IV therapy (delivered to home, office, or hotel)",
+        "Choosing a Private Way to Update Appointment Information"
+      ],
+      "records-after-visit-cancels": [
+        "Provider, scope, and preparation questions",
+        "What to Record When a Mobile Wellness Visit Does Not Go Ahead"
+      ],
+      "visitor-access-plan": [
+        "Mobile IV therapy (delivered to home, office, or hotel)",
+        "Planning Building Access for a Mobile Wellness Appointment"
+      ],
+      "language-and-format": [
+        "Mobile IV therapy (delivered to home, office, or hotel)",
+        "Asking for an Explanation in a Format You Can Use"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
