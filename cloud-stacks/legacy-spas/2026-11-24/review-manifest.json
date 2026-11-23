@@ -1,0 +1,119 @@
+{
+  "publisher": "Hot Tub Store Field Guide: Langley",
+  "cycle_key": "2026-11-24",
+  "page_count": 16,
+  "support_page_count": 4,
+  "total_html_page_count": 20,
+  "content_sha256": "9d7fb2a35b2a65657c57746630fb909152147be2a4d8e257ab37c004e438d846",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/legacy-spas/2026-11-24",
+  "theme_motif": "navy",
+  "visual_archetype": "field_guide",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 769,
+      "model-document-check": 754,
+      "parts-enquiry-record": 764,
+      "hot-tubs-langley": 766,
+      "legacy-spas-langley": 753,
+      "ownership-record-system": 754,
+      "water-test-visit": 764,
+      "hot-tub-store-langley": 749,
+      "quote-scope-comparison": 738,
+      "filter-identification": 766,
+      "hot-tubs-langley-bc": 729,
+      "hot-tub-covers-langley": 752,
+      "delivery-responsibility-plan": 753,
+      "site-access-record": 763,
+      "hot-tub-repair-langley": 740,
+      "restoration-options": 735
+    },
+    "articles_with_sources": 8,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 16,
+    "articles_with_faqs": 0,
+    "topical_paths": {
+      "index": [
+        "Hot tub selection and showroom comparisons",
+        "A Practical Route to Choosing a Hot Tub in Langley"
+      ],
+      "model-document-check": [
+        "Hot tub selection and showroom comparisons",
+        "Match Hot Tub Specifications to the Model You Will Order"
+      ],
+      "parts-enquiry-record": [
+        "Documenting replacement filters and covers",
+        "Write a Clear Enquiry About an Unidentified Hot Tub Part"
+      ],
+      "hot-tubs-langley": [
+        "Hot tub selection and showroom comparisons",
+        "A Showroom Checklist for Comparing Hot Tub Seating"
+      ],
+      "legacy-spas-langley": [
+        "Repair, restoration and replacement decisions",
+        "Prepare an Older Hot Tub Enquiry for Legacy Spas"
+      ],
+      "ownership-record-system": [
+        "Organizing water testing and support records",
+        "Create a Hot Tub Ownership Record That Is Easy to Maintain"
+      ],
+      "water-test-visit": [
+        "Organizing water testing and support records",
+        "Prepare for a Useful Hot Tub Water Testing Visit"
+      ],
+      "hot-tub-store-langley": [
+        "Organizing water testing and support records",
+        "Questions to Ask About Support Before Buying a Hot Tub"
+      ],
+      "quote-scope-comparison": [
+        "Site readiness, quotes and delivery decisions",
+        "Compare Hot Tub Quotes by Scope and Unanswered Questions"
+      ],
+      "filter-identification": [
+        "Documenting replacement filters and covers",
+        "Identify a Replacement Hot Tub Filter Before Ordering"
+      ],
+      "hot-tubs-langley-bc": [
+        "Hot tub selection and showroom comparisons",
+        "Resolve Household Tradeoffs Before Choosing a Hot Tub"
+      ],
+      "hot-tub-covers-langley": [
+        "Documenting replacement filters and covers",
+        "Prepare the Right Information for a Replacement Hot Tub Cover"
+      ],
+      "delivery-responsibility-plan": [
+        "Site readiness, quotes and delivery decisions",
+        "Agree Who Handles Each Part of Hot Tub Delivery"
+      ],
+      "site-access-record": [
+        "Site readiness, quotes and delivery decisions",
+        "Build a Useful Hot Tub Site and Access Record"
+      ],
+      "hot-tub-repair-langley": [
+        "Repair, restoration and replacement decisions",
+        "Prepare a Factual Hot Tub Repair Enquiry"
+      ],
+      "restoration-options": [
+        "Repair, restoration and replacement decisions",
+        "Compare Repair, Restoration and Replacement Using Evidence"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
