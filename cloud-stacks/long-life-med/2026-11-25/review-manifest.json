@@ -1,0 +1,124 @@
+{
+  "publisher": "Nevada Primary Care Membership Decision Guide",
+  "cycle_key": "2026-11-25",
+  "page_count": 17,
+  "support_page_count": 4,
+  "total_html_page_count": 21,
+  "content_sha256": "c578991e1ec0e0df920c6441431052b6721a9d99d96adc8d0f1d32f18b89d562",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/long-life-med/2026-11-25",
+  "theme_motif": "threshold",
+  "visual_archetype": "decision_notebook",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 701,
+      "medication-source-and-label": 663,
+      "check-membership-agreement": 691,
+      "drug-approval-compounding-registration": 670,
+      "medical-records-request": 671,
+      "questions-about-compounded-glp-one": 676,
+      "nevada-pharmacy-verification": 700,
+      "appointment-access-and-backup": 667,
+      "questions-about-hormone-therapy": 658,
+      "membership-and-insurance": 683,
+      "insurer-coverage-verification": 678,
+      "emergency-and-membership-messaging": 691,
+      "membership-cost-worksheet": 671,
+      "nevada-nurse-practitioner-license": 692,
+      "nevada-insurance-complaint": 660,
+      "questions-about-iv-therapy": 685,
+      "appointment-preparation-worksheet": 679
+    },
+    "articles_with_sources": 10,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 17,
+    "articles_with_faqs": 0,
+    "topical_paths": {
+      "index": [
+        "Direct Primary Care (DPC) membership",
+        "What a Direct Primary Care Membership Can Answer"
+      ],
+      "medication-source-and-label": [
+        "Functional Medicine",
+        "Ask Who Prescribes and Supplies a Proposed Medication"
+      ],
+      "check-membership-agreement": [
+        "Direct Primary Care (DPC) membership",
+        "Check the Agreement Before Paying for a Membership"
+      ],
+      "drug-approval-compounding-registration": [
+        "direct primary care and functional/longevity medicine clinic fundamentals and terminology",
+        "Understand FDA Approval, Compounding and Registration Terms"
+      ],
+      "medical-records-request": [
+        "direct primary care and functional/longevity medicine clinic fundamentals and terminology",
+        "Ask for Medical Records and Track the Request"
+      ],
+      "questions-about-compounded-glp-one": [
+        "Medical Weight Loss Management (GLP-1: Semaglutide, Tirzepatide)",
+        "Prepare Questions About a Compounded GLP-1 Proposal"
+      ],
+      "nevada-pharmacy-verification": [
+        "Provider, scope, and preparation questions",
+        "Check the Nevada Pharmacy Named on a Prescription"
+      ],
+      "appointment-access-and-backup": [
+        "Risks, timing, and decision triggers",
+        "Verify Appointment Access and Backup Contacts"
+      ],
+      "questions-about-hormone-therapy": [
+        "Bio-Identical Hormone Replacement Therapy (BHRT)",
+        "Prepare Questions About Hormone Therapy Claims"
+      ],
+      "membership-and-insurance": [
+        "Service and option comparison",
+        "Compare Membership Terms With Your Health Insurance"
+      ],
+      "insurer-coverage-verification": [
+        "Service and option comparison",
+        "Confirm Network, Claims and Reimbursement With Your Insurer"
+      ],
+      "emergency-and-membership-messaging": [
+        "Risks, timing, and decision triggers",
+        "Put Emergency Care Ahead of Membership Messaging"
+      ],
+      "membership-cost-worksheet": [
+        "Direct Primary Care (DPC) membership",
+        "Map Membership Fees and Possible Outside Charges"
+      ],
+      "nevada-nurse-practitioner-license": [
+        "Provider, scope, and preparation questions",
+        "Verify a Nevada Nurse Practitioner Before a Visit"
+      ],
+      "nevada-insurance-complaint": [
+        "direct primary care and functional/longevity medicine clinic fundamentals and terminology",
+        "Prepare a Nevada Insurance Complaint Packet"
+      ],
+      "questions-about-iv-therapy": [
+        "Functional Medicine",
+        "Ask About Ingredients and Follow-Up Before an IV Proposal"
+      ],
+      "appointment-preparation-worksheet": [
+        "Provider, scope, and preparation questions",
+        "Prepare an Appointment Worksheet for a New Practice"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
