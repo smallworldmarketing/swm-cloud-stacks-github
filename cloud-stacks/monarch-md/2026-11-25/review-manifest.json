@@ -1,0 +1,129 @@
+{
+  "publisher": "Women's Health Practice Transition Guide",
+  "cycle_key": "2026-11-25",
+  "page_count": 16,
+  "support_page_count": 4,
+  "total_html_page_count": 20,
+  "content_sha256": "79264026abfc6e49c98f8443ea19ce53d973fce62dcbd70b61e57be473657baa",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/monarch-md/2026-11-25",
+  "theme_motif": "ochre",
+  "visual_archetype": "editorial_journal",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 1040,
+      "obgyn-practice-launch-support-overview": 781,
+      "physician-burnout-solutions-womens-health": 674,
+      "transition-obgyn-practice-to-concierge-care": 907,
+      "how-many-patients-concierge-obgyn-needs": 732,
+      "companies-that-help-obgyns-go-concierge": 976,
+      "concierge-medicine-pros-and-cons-for-obgyns": 942,
+      "concierge-vs-direct-primary-care": 908,
+      "concierge-menopause-practice-considerations": 812,
+      "independent-physician-practice-checklist": 913,
+      "concierge-practice-model-questions-to-ask": 811,
+      "membership-based-womens-health-practice-guide": 688,
+      "leaving-insurance-based-obgyn-practice": 993,
+      "concierge-gynecology-practice-checklist": 766,
+      "choosing-a-practice-management-partner": 938,
+      "how-to-start-a-concierge-obgyn-practice": 944
+    },
+    "articles_with_sources": 16,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 16,
+    "articles_with_faqs": 16,
+    "topical_paths": {
+      "index": [
+        "Practice model decisions",
+        "Concierge versus membership model fit",
+        "Evaluating operational partners"
+      ],
+      "obgyn-practice-launch-support-overview": [
+        "Launching and transitioning",
+        "non-clinical launch support",
+        "dividing operational tasks from clinical authority"
+      ],
+      "physician-burnout-solutions-womens-health": [
+        "Practice model decisions",
+        "Burnout and workload evaluation",
+        "Diagnosing root cause before restructuring"
+      ],
+      "transition-obgyn-practice-to-concierge-care": [
+        "Operations and partner evaluation",
+        "Workflow and compliance during conversion"
+      ],
+      "how-many-patients-concierge-obgyn-needs": [
+        "Financial and panel planning",
+        "panel size estimation"
+      ],
+      "companies-that-help-obgyns-go-concierge": [
+        "Operations and partner evaluation",
+        "Comparing practice management companies"
+      ],
+      "concierge-medicine-pros-and-cons-for-obgyns": [
+        "Practice model decisions",
+        "Concierge medicine pros and cons",
+        "Weighing trade-offs for a representative panel"
+      ],
+      "concierge-vs-direct-primary-care": [
+        "Practice model decisions",
+        "concierge medicine vs direct primary care"
+      ],
+      "concierge-menopause-practice-considerations": [
+        "Practice model decisions",
+        "Menopause-focused practice scope",
+        "Readiness assessment before launch"
+      ],
+      "independent-physician-practice-checklist": [
+        "Operations and partner evaluation",
+        "Independent practice readiness assessment"
+      ],
+      "concierge-practice-model-questions-to-ask": [
+        "Practice model decisions",
+        "pre-conversion readiness",
+        "questions to resolve before signing"
+      ],
+      "membership-based-womens-health-practice-guide": [
+        "Launching and transitioning",
+        "Membership-based practice planning",
+        "Pre-launch due diligence questions"
+      ],
+      "leaving-insurance-based-obgyn-practice": [
+        "Financial and panel planning",
+        "leaving an insurance-based practice",
+        "exit timing and patient continuity"
+      ],
+      "concierge-gynecology-practice-checklist": [
+        "Operations and partner evaluation",
+        "concierge gynecology readiness",
+        "pre-conversion checklist"
+      ],
+      "choosing-a-practice-management-partner": [
+        "Operations and partner evaluation",
+        "Selecting a practice management company",
+        "Contract and workflow fit"
+      ],
+      "how-to-start-a-concierge-obgyn-practice": [
+        "Launching and transitioning",
+        "pre-launch planning sequence"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
