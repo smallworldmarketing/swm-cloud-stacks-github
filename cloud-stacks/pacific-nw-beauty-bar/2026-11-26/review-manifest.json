@@ -1,0 +1,156 @@
+{
+  "publisher": "Tacoma Beauty and Esthetics Studio Field Notes",
+  "cycle_key": "2026-11-26",
+  "page_count": 20,
+  "support_page_count": 4,
+  "total_html_page_count": 24,
+  "content_sha256": "012099deb6e7d4c085f10ff7003366d7e3438b7ba5f40317fef92e7827388aca",
+  "indexable": true,
+  "canonical_origin": "https://smallworldmarketing.github.io/swm-cloud-stacks-github/cloud-stacks/pacific-nw-beauty-bar/2026-11-26",
+  "theme_motif": "threshold",
+  "visual_archetype": "field_guide",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 787,
+      "waxing-consultation-checklist": 839,
+      "evaluating-cosmetic-providers": 1020,
+      "event-appointment-planning": 935,
+      "discussing-exfoliation": 745,
+      "planning-lash-upkeep": 685,
+      "understanding-written-aftercare": 736,
+      "facial-or-routine-review": 859,
+      "comparing-cosmetic-consultations": 852,
+      "brow-service-goals": 787,
+      "dermal-filler-consultation": 706,
+      "botox-consultation-questions": 788,
+      "sensitive-skin-appointment-checklist": 743,
+      "weight-management-programme-questions": 708,
+      "occasion-makeup-planning": 999,
+      "tinting-consultation-questions": 795,
+      "beauty-consultation-details": 729,
+      "lash-extensions-or-lift": 760,
+      "lash-adhesive-questions": 867,
+      "skin-goals-before-a-facial": 894
+    },
+    "articles_with_sources": 19,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 20,
+    "articles_with_faqs": 20,
+    "topical_paths": {
+      "index": [
+        "Planning and caring for appointments",
+        "Overview of appointment decisions"
+      ],
+      "waxing-consultation-checklist": [
+        "Waxing and occasion makeup",
+        "Waxing preparation",
+        "Current skin-care disclosure"
+      ],
+      "evaluating-cosmetic-providers": [
+        "Choosing a provider",
+        "Evaluating qualifications and experience",
+        "Consultation and follow-up evaluation"
+      ],
+      "event-appointment-planning": [
+        "Planning and caring for appointments",
+        "Event and occasion planning",
+        "Reducing uncertainty before a fixed date"
+      ],
+      "discussing-exfoliation": [
+        "Skin and facial appointments",
+        "Exfoliation and routine review",
+        "Deciding whether to add a treatment"
+      ],
+      "planning-lash-upkeep": [
+        "Lash and brow care",
+        "Lash service upkeep planning",
+        "Comparing appointment frequency and written care plans"
+      ],
+      "understanding-written-aftercare": [
+        "Planning and caring for appointments",
+        "Aftercare and follow-up communication",
+        "Reviewing written instructions before you leave"
+      ],
+      "facial-or-routine-review": [
+        "Skin and facial appointments",
+        "Facial versus routine decisions",
+        "Recognizing when medical assessment is needed"
+      ],
+      "comparing-cosmetic-consultations": [
+        "Choosing a provider",
+        "Comparing cosmetic consultations",
+        "Building a side-by-side comparison sheet"
+      ],
+      "brow-service-goals": [
+        "Lash and brow care",
+        "Brow shaping, makeup and lamination",
+        "Setting a brow appointment goal"
+      ],
+      "dermal-filler-consultation": [
+        "Medical aesthetics consultations",
+        "Dermal filler consultation preparation"
+      ],
+      "botox-consultation-questions": [
+        "Medical aesthetics consultations",
+        "Botox consultation questions",
+        "Evaluating suitability and realistic expectations"
+      ],
+      "sensitive-skin-appointment-checklist": [
+        "Skin and facial appointments",
+        "Sensitive skin preparation",
+        "Building a provider checklist"
+      ],
+      "weight-management-programme-questions": [
+        "Medical aesthetics consultations",
+        "Medical weight-loss consultation",
+        "Comparing programme qualifications and support"
+      ],
+      "occasion-makeup-planning": [
+        "Waxing and occasion makeup",
+        "Occasion makeup planning",
+        "Communicating coverage and finish preferences"
+      ],
+      "tinting-consultation-questions": [
+        "Waxing and occasion makeup",
+        "Brow and lash tinting",
+        "Pre-appointment safety questions"
+      ],
+      "beauty-consultation-details": [
+        "Choosing a provider",
+        "Preparing for a consultation",
+        "Bringing useful details to an appointment"
+      ],
+      "lash-extensions-or-lift": [
+        "Lash and brow care",
+        "Comparing lash extensions with lash lifts and tinting",
+        "Choosing between upkeep styles"
+      ],
+      "lash-adhesive-questions": [
+        "Lash and brow care",
+        "Lash adhesive and eye sensitivity questions"
+      ],
+      "skin-goals-before-a-facial": [
+        "Skin and facial appointments",
+        "Facial consultation goals",
+        "Describing concerns before booking"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
